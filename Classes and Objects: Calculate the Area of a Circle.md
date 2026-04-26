@@ -25,6 +25,7 @@ obj.mech(radius)
 ~~~
 
 ## Output
+<img width="442" height="320" alt="image" src="https://github.com/user-attachments/assets/730a13ec-05bd-4b73-bb4b-2f18b3d8ada8" />
 
 ## Result
 Thus, The Python program that calculates the area of a circle based on the radius provided by the user was executed successfully.
