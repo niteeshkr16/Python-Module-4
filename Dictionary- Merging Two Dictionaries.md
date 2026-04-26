@@ -21,6 +21,7 @@ print(merge(dict1, dict2))
 ~~~
 
 ## Output
+<img width="421" height="227" alt="image" src="https://github.com/user-attachments/assets/074e385a-e326-450e-b150-402c2b7f883d" />
 
 ## Result
 Thus, The Python program that merges two dictionaries and combines their key-value pairs was executed sucessfully.
