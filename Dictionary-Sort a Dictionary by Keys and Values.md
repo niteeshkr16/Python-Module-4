@@ -42,6 +42,7 @@ print("Sorted by Values:", sorted_values)
 ~~~
 
 ## Sample Output
+<img width="750" height="296" alt="image" src="https://github.com/user-attachments/assets/a8f1ea29-6d09-40bf-bcb1-fc96748b6845" />
 
 ## Result
 Thus, The To write a Python program that sorts a dictionary according to its Keys in alphabetical order and to its Values in alphabetical order was executed successfully.
